@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Matei!
+## 👋 Hi, I’m Matei!
 
 🎓 Soon-to-be first-year Computer Science student at Universitatea Politehnica of Bucharest.
 
