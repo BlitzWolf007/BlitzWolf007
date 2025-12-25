@@ -1,15 +1,15 @@
 ## About me
 
-I’m Matei, a CS student studying software engineering, building things that sometimes work.
+I’m Matei, a CS student studying software engineering. I build things that sometimes work.
 
-What you’ll find me working on:
-- Kernels and OS development
+What you’ll find me doing:
+- Kernel and OS development
 - Hackathons
 - CTFs (recently)
 
-## Stuff I use:
+## Tools & technologies:
 
-This I am good at:
+Daily drivers:
 
 <div align="left">
   <img src="icons/asm.png" height="48" alt="asm" />
@@ -25,7 +25,7 @@ This I am good at:
 
 ######
 
-Also worth mentioning:
+Occasionally used:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
