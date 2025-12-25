@@ -1,7 +1,1 @@
-## 👋 Hi, I’m Matei!
-
-🎓 Computer Science student at Universitatea Politehnica of Bucharest.
-
-I like low-level programming, especially kernel/OS development related subjects.
-
-Check out my hobby OS: [LykOS](https://github.com/lykdev/lykOS)
+[![BlitzWolf007's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlitzWolf007)](https://github.com/anuraghazra/github-readme-stats)
