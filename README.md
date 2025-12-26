@@ -19,8 +19,6 @@ Daily drivers:
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-  <img width="1" />
-  <img src="icons/meson.svg" height="48" alt="meson" />
 </div>
 
 ######
