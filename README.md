@@ -7,9 +7,7 @@ What you’ll find me doing:
 - Hackathons
 - CTFs (recently)
 
-## Tools & technologies:
-
-Daily drivers:
+## Things I use
 
 <div align="left">
   <img src="icons/asm.png" height="48" alt="asm" />
@@ -19,13 +17,7 @@ Daily drivers:
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-</div>
-
-######
-
-Occasionally used:
-
-<div align="left">
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=go" height="48" alt="go logo"  />
