@@ -1,13 +1,13 @@
-## About me
+## Hi there, I'm Matei
 
-I’m Matei, a CS student studying software engineering. I build things that sometimes work.
+CS student studying software engineering. I build things that sometimes work.
 
 What you’ll find me doing:
 - Kernel and OS development
 - Hackathons
 - CTFs (recently)
 
-## Things I use
+## Things I use (or get my way around)
 
 <div align="left">
   <img src="icons/asm.png" height="48" alt="asm" />
