@@ -1,7 +1,5 @@
 ## Hi there, I'm Matei
 
-CS student studying software engineering. I build things that sometimes work.
-
 What you’ll find me doing:
 - Kernel and OS development
 - Hackathons
