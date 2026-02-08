@@ -5,7 +5,7 @@ What you’ll find me doing:
 - Hackathons
 - CTFs
 
-## Things I use (or get my way around)
+## Things I use (or get my way around with)
 
 <div align="left">
   <img src="icons/asm.png" height="48" alt="asm" />
