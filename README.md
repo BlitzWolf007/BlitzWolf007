@@ -3,7 +3,7 @@
 What you’ll find me doing:
 - Kernel and OS development
 - Hackathons
-- CTFs
+- CTFs (as of recently)
 
 ## Things I use (or get my way around with)
 
