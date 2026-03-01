@@ -17,6 +17,4 @@ What you’ll find me doing:
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=go" height="48" alt="go logo"  />
 </div>
