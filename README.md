@@ -4,4 +4,6 @@ I'm Matei. I enjoy embedded and systems programming, and I'm especially passiona
 
 ##
 
-![Programming languages](https://go-skill-icons.vercel.app/api/icons?i=rust,c,assembly,python,java,arch,linux,git,github,zed&titles=true)
+![Programming languages](https://go-skill-icons.vercel.app/api/icons?i=rust,c,assembly,python,java&titles=true)
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,linux,git,github,zed&titles=true)
