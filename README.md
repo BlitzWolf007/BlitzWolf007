@@ -1,9 +1,6 @@
-## Hi there, I'm Matei
+### Hi there 👋
 
-What you’ll find me doing:
-- Kernel and OS development
-- Hackathons
-- CTFs (as of recently)
+I'm Matei. I enjoy embedded and systems programming, and I'm especially passionate about operating systems.
 
 ##
 
